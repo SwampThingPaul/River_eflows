@@ -2,10 +2,15 @@
 
 <sup>1</sup>Adapted from the Saltmarsh Habitat & Avian Research Program ([https://www.tidalmarshbirds.org/](https://www.tidalmarshbirds.org/)) Guidelines for Authorship Standard Operating Procedure.
 
+1. [**Authorship Criteria**](#author)
+2. [**Author Order and Etiquette**](#order)
+3. [**A Living Document**](#doc)
+
 ***
 
 Deciding authorship on scientific publications can be complicated because practices and cultural norms vary across disciplines and even across labs within the same discipline. This is especially relevant in ecology, where standardized guidelines are lacking and a diversity of options exist for deciding authorship and author order. These guidelines outline a set of criteria for authorship determinations. These criteria are presented as guidelines, because a common set of expectations is important to maintain mutual satisfaction among co- authors. We recognize, however, that some flexibility will be required and communication is essential to the process.  Before all else, remember __conversations regarding authorship for each manuscript should happen early, frequently, openly, and inclusively__. A conversation should be expected when the paper is first conceived and should be revisited periodically as each project develops.
 
+<a name="author"></a>
 ## **Authorship Criteria**
 Authorship on a manuscript is warranted when a researcher has made a substantial contribution to the manuscript in question (not the overall project as a whole), as defined by any __two__ of the following:
    * Conceiving of ideas and/or study design and/or analytical approach
@@ -50,6 +55,7 @@ Recognize that the contribution of effort is a gradient with clear endpoints (on
 
 As data collected by others who have moved on are used in analysis, we need to give them credit for their prior work.  If the data have already been published in another form and their papers can be cited, this may be enough. Authorship may be warranted or offered, however, under several circumstances.  First, if the individual was involved in the conception of the ideas in the new manuscript, this would warrant their inclusion. Second, if the new manuscript is based largely on the data (or conceptual groundwork) of a single individual (similar to the rules for contemporary contributors, could the analysis be completed without their data?), authorship should be considered. If the previous work of prior individuals passes the Threshold of Effort test for any reason, the burden is on the PI involved to offer the opportunity for further engagement in the new manuscript to new individuals, preferably early in the process. If prior individuals respond positively and stay involved, then they should be authors on the new work. Prior individuals are responsible for deciding to stay engaged and following through with their involvement. Importantly, prior individuals should understand that if they do not respond to inquiries about authorship, historical datasets can still be used, but they will not be included as authors. This same approach may be followed for the advisors of prior individuals if they pass the Threshold.
 
+<a name="order"></a>
 ## **Author Order and Etiquette**
 The order of authors on publications will follow the practice of first-last author emphasis. The first author will be the person who did the majority of the work, carried out the study, and will often be a the primary writer of the manuscript. Typically, the last author should be the lab PI.  “Credit” or “importance” is attributed to authors in the following order:  first, last, 2<sup>nd</sup>, 3<sup>rd</sup>, 4<sup>th</sup>, etc.  Final decisions regarding author order ultimately lie with the first author, in consultation with their advisor, PI or mentor. Authors that disagree with the draft author order, however, should feel comfortable voicing their concerns. More importantly, primary authors should ask specifically for co-authors to approve the final order via email.
 
@@ -63,6 +69,7 @@ It is the primary author’s responsibility, as corresponding author, to provide
 *	Page proofs and the opportunity to comment on them
 *	A final pdf of all published papers
 
+<a name="doc"></a>
 ##	**A Living Document**
 Expectations for authorship are a set of evolving cultural norms. This means that 1) they must be taught anew to each set of students and/or new individual early in their involvement with the project and 2) the guidelines in this document need to be revisited and updated regularly (~annually or as needed).
 
