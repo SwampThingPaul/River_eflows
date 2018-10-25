@@ -1,6 +1,6 @@
 # Guidelines for Authorship<sup>1</sup>
 
-<sup>1</sup>Adapted from the Saltmarsh habitat & Avian Research Program ([https://www.tidalmarshbirds.org/](https://www.tidalmarshbirds.org/)) Guidelines for Authorship Standard Operating Procedure.
+<sup>1</sup>Adapted from the Saltmarsh Habitat & Avian Research Program ([https://www.tidalmarshbirds.org/](https://www.tidalmarshbirds.org/)) Guidelines for Authorship Standard Operating Procedure.
 
 ***
 
