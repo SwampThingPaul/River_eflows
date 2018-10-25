@@ -27,7 +27,7 @@ Other things are important to keep in mind (expanded upon in the sections below)
 * *Consider thresholds of effort (“could the study have been done without the contribution?”)*
 * *Offer further involvement*
 * *Use inclusion to deal with uncertainty (“better to be inclusive than to exclude”)*
-* *Primary authors and their advisors will make the final decision on authorship*
+* *Primary authors and their advisors/PIs/mentors will make the final decision on authorship*
 * *Invite prior individuals (alumni) to participate when appropriate*
 * *There are expection for grant deliverables.*
 * ***When in doubt, talk it out!***
