@@ -34,7 +34,7 @@ Other things are important to keep in mind (expanded upon in the sections below)
 * *Use inclusion to deal with uncertainty (“better to be inclusive than to exclude”)*
 * *Primary authors and their advisors/PIs/mentors will make the final decision on authorship*
 * *Invite prior individuals (alumni) to participate when appropriate*
-* *There are expection for grant deliverables.*
+* *There are exceptions for grant deliverables.*
 * ***When in doubt, talk it out!***
    
 
