@@ -3,6 +3,10 @@
 <sup>1</sup>Adapted from the Saltmarsh Habitat & Avian Research Program ([https://www.tidalmarshbirds.org/](https://www.tidalmarshbirds.org/)) Guidelines for Authorship Standard Operating Procedure.
 
 1. [**Authorship Criteria**](#author)
+   - [*Consider Thresholds of Effort* ](#threshold)
+   - [*Offer Further Involvement*](#involvement)
+   - [*Use Inclusion to Deal with Uncertainty*](#inclusion)
+   - [*Invite Alumni to Participate when Appropriate*](#alum)
 2. [**Author Order and Etiquette**](#order)
 3. [**A Living Document**](#doc)
 
@@ -33,24 +37,24 @@ Other things are important to keep in mind (expanded upon in the sections below)
 * ***When in doubt, talk it out!***
    
 
-
+<a name="threshold"></a>
 *Consider Thresholds of Effort* 
 
 Ultimately, the primary author must have some leeway in making authorship decisions, and ensuring that a certain minimum threshold of contribution has been made. When the level of the contribution to the particular manuscript is unclear (e.g. as in the case of data collection), the deciding question becomes “could the study have been done without that person’s contribution?”
 
 For instance, did the extra work amount to a few data points within a huge dataset (if the analysis was enhanced by their participation, but was possible without it, authorship may not be warranted), or were the data points critical to establishing the pattern (if the analysis is impossible without the data from this study site, or if trends depend on those data, authorship is more clearly warranted).  Other considerations: If a researcher is collecting data for a study that is not their own, did they do extra work that they would not otherwise have done on their own study site or for their own study (if so, the case for authorship increases)? Did the effort amount to a few days of fieldwork (may not warrant authorship) or a season’s worth of logistics and data collection (more clearly warrants authorship)?
 
-
+<a name="involvement"></a>
 *Offer Further Involvement*
 
 In some instances, a contributor may have clearly passed a threshold of effort (see previous), but will have only contributed to one of the categories that would qualify them for consideration of authorship. In these instances, it is the primary author’s responsibility to reach out to the contributor early in the writing process and have a conversation about further involvement. The second category can be easily achieved by assistance with developing and reviewing the manuscript, and contributors that have clearly passed a threshold of effort should be given that opportunity.
 
-
+<a name="inclusion"></a?
 *Use Inclusion to Deal with Uncertainty*
 
 Recognize that the contribution of effort is a gradient with clear endpoints (one data point out of two probably gets you authorship, one data point out of 1,000 probably doesn’t), so there will likely be situations where it is unclear (200 data points out of 1,000?). If there is any uncertainty in gauging the contribution, it is better to be inclusive than to exclude, and it is better to talk directly to the contributor explicitly. A quick phone call made in a spirit of inclusion can almost always improve the situation for everyone, both for this manuscript and for future collaboration.
 
-
+<a name="alum"></a>
 *Invite Alumni to Participate when Appropriate*
 
 As data collected by others who have moved on are used in analysis, we need to give them credit for their prior work.  If the data have already been published in another form and their papers can be cited, this may be enough. Authorship may be warranted or offered, however, under several circumstances.  First, if the individual was involved in the conception of the ideas in the new manuscript, this would warrant their inclusion. Second, if the new manuscript is based largely on the data (or conceptual groundwork) of a single individual (similar to the rules for contemporary contributors, could the analysis be completed without their data?), authorship should be considered. If the previous work of prior individuals passes the Threshold of Effort test for any reason, the burden is on the PI involved to offer the opportunity for further engagement in the new manuscript to new individuals, preferably early in the process. If prior individuals respond positively and stay involved, then they should be authors on the new work. Prior individuals are responsible for deciding to stay engaged and following through with their involvement. Importantly, prior individuals should understand that if they do not respond to inquiries about authorship, historical datasets can still be used, but they will not be included as authors. This same approach may be followed for the advisors of prior individuals if they pass the Threshold.
