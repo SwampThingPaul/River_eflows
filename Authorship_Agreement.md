@@ -49,7 +49,7 @@ For instance, did the extra work amount to a few data points within a huge datas
 
 In some instances, a contributor may have clearly passed a threshold of effort (see previous), but will have only contributed to one of the categories that would qualify them for consideration of authorship. In these instances, it is the primary author’s responsibility to reach out to the contributor early in the writing process and have a conversation about further involvement. The second category can be easily achieved by assistance with developing and reviewing the manuscript, and contributors that have clearly passed a threshold of effort should be given that opportunity.
 
-<a name="inclusion"></a?
+<a name="inclusion"></a>
 *Use Inclusion to Deal with Uncertainty*
 
 Recognize that the contribution of effort is a gradient with clear endpoints (one data point out of two probably gets you authorship, one data point out of 1,000 probably doesn’t), so there will likely be situations where it is unclear (200 data points out of 1,000?). If there is any uncertainty in gauging the contribution, it is better to be inclusive than to exclude, and it is better to talk directly to the contributor explicitly. A quick phone call made in a spirit of inclusion can almost always improve the situation for everyone, both for this manuscript and for future collaboration.
