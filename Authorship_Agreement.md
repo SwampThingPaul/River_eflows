@@ -2,6 +2,7 @@
 
 <sup>1</sup>Adapted from the Saltmarsh Habitat & Avian Research Program ([https://www.tidalmarshbirds.org/](https://www.tidalmarshbirds.org/)) Guidelines for Authorship Standard Operating Procedure.
 
+**Table of Contents:**
 1. [**Authorship Criteria**](#author)
    - [*Consider Thresholds of Effort* ](#threshold)
    - [*Offer Further Involvement*](#involvement)
